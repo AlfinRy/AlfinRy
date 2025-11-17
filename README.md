@@ -30,20 +30,6 @@ I'm a passionate **Backend Developer** who loves building robust and scalable we
 
 </div>
 
-## 🎯 Featured Projects
-
-### 🌊 [Water Animation](https://github.com/AlfinRy/water_animation)
-Interactive water effect animation using pure CSS
-
-### 🎭 [Focus Parallax](https://github.com/AlfinRy/focus_parallax)
-Creative parallax scrolling effect with focus transitions
-
-### ✍️ [Transition Word](https://github.com/AlfinRy/transition-word)
-Smooth word transition animations for modern websites
-
-### 🧮 [Calculator](https://github.com/AlfinRy/calculator)
-Clean and functional calculator with beautiful UI
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -69,14 +55,6 @@ const alfin = {
     motto: "Clean code, strong foundation"
 };
 ```
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlfinRy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfinry)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-alfinry.vercel.app/)
 
 </div>
 
