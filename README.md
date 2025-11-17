@@ -1,25 +1,31 @@
 # Hi there, I'm Alfin! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Front-End+Developer;UI%2FUX+Enthusiast;Animation+Designer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Backend+Developer;Fullstack+Engineer;Laravel+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Front-End Developer** who loves creating beautiful and interactive web experiences. I enjoy exploring CSS animations, parallax effects, and modern web design techniques to bring ideas to life.
+I'm a passionate **Backend Developer** who loves building robust and scalable web applications. I enjoy working with server-side technologies, designing APIs, and optimizing database performance to create efficient solutions.
 
-- 🎨 Specializing in **CSS Animations** and **Interactive UI**
-- 💡 Love experimenting with creative web effects
-- 🌱 Currently learning advanced JavaScript frameworks
-- ⚡ Fun fact: I believe great design is where art meets functionality
+- 🔧 Specializing in **Backend Development** with Laravel & PHP
+- 💡 Love building **RESTful APIs** and database architectures
+- 🌱 Currently exploring advanced backend optimization techniques
+- ⚡ Fun fact: I believe good backend code is like a well-oiled machine
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -56,10 +62,11 @@ Clean and functional calculator with beautiful UI
 
 ```javascript
 const alfin = {
-    code: ["HTML", "CSS", "JavaScript"],
-    passion: ["UI/UX Design", "Animations", "Web Interactions"],
-    focus: "Creating delightful user experiences",
-    motto: "Make it beautiful, make it functional"
+    code: ["PHP", "JavaScript", "TypeScript", "SQL"],
+    frameworks: ["Laravel", "CodeIgniter", "Node.js", "React"],
+    passion: ["Backend Development", "API Design", "Database Optimization"],
+    focus: "Building scalable and efficient server-side solutions",
+    motto: "Clean code, strong foundation"
 };
 ```
 
@@ -68,8 +75,8 @@ const alfin = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlfinRy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfinry)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-alfinry.vercel.app/)
 
 </div>
 
@@ -78,5 +85,5 @@ const alfin = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AlfinRy&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
-  **"Design is not just what it looks like. Design is how it works."** - Steve Jobs
+  **"First, solve the problem. Then, write the code."** - John Johnson
 </div>
