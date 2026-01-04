@@ -37,15 +37,15 @@ Berpengalaman di **Laravel & Fullstack**, dan sekarang mulai eksplor **TypeScrip
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlfinRy&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlfinRy&show_icons=true&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlfinRy&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlfinRy&layout=compact&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlfinRy&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlfinRy&theme=tokyo-night" width="100%" />
 </div>
 
 ---
