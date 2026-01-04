@@ -48,21 +48,6 @@ Berpengalaman di **Laravel & Fullstack**, dan sekarang mulai eksplor **TypeScrip
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlfinRy&theme=tokyonight" />
 </div>
 
-### 🔥 Activity & Overview
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlfinRy&theme=tokyonight" />
-</div>
-
-### ⚡ Stats
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlfinRy&theme=tokyonight" />
-</div>
-
-### 🧠 Top Languages by Commit
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlfinRy&theme=tokyonight" />
-</div>
-
 ---
 
 ## 🎨 What I Love Building
