@@ -36,14 +36,14 @@ Berpengalaman di **Laravel & Fullstack**, dan sekarang mulai eksplor **TypeScrip
 
 ## 📊 GitHub Stats
 
-### 🔥 Activity & Overview (Stabil)
+### 🔥 Activity & Overview
 <div align="center">
-  <img src="https://metrics.lecoq.io/AlfinRy" />
+  <img src="https://metrics.lecoq.io/AlfinRy?template=classic&theme=dark" />
 </div>
 
 ### ⚡ Streak
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AlfinRy&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=AlfinRy&theme=tokyonight&hide_border=true" />
 </div>
 
 ### 🧠 Top Languages
